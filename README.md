@@ -15,8 +15,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 🛠️ Skills
 
-🌐Networking: CCNA, TCP/IP, IPv4, Subnetting, VLAN, Routing, OSPF, ACL, NAT, DHCP, DNS, VPN
-📊Security: Network Security, Firewall Management, Log Analysis, Vulnerability Management
-🛡️SIEM: Splunk, Wazuh, IBM QRadar
-🧰Tools: Sophos Firewall, Qualys VMDR, Nessus, Trellix EDR, Wireshark, tcpdump
-💻Systems: Windows, Linux, VMware, VirtualBox
+🌐 Networking: CCNA, TCP/IP, IPv4, Subnetting, VLAN, Routing, OSPF, ACL, NAT, DHCP, DNS, VPN
+
+📊 Security: Network Security, Firewall Management, Log Analysis, Vulnerability Management
+
+🛡️ SIEM: Splunk, Wazuh, IBM QRadar
+
+🧰 Tools: Sophos Firewall, Qualys VMDR, Nessus, Trellix EDR, Wireshark, tcpdump
+
+💻 Systems: Windows, Linux, VMware, VirtualBox
