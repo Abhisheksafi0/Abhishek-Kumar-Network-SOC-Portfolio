@@ -66,3 +66,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Fortinet%20NSE%203-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys%20VMDR-D71920?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
+
+## Projects
+- Enterprise SOC & Endpoint Security Monitoring Lab
+- Enterprise Multi-Site Network Design
