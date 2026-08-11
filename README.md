@@ -8,3 +8,8 @@ I'm an IT professional building my career in Network Security and Security Opera
 I'm currently strengthening my skills through practical labs and projects using tools such as Splunk, Wazuh, Wireshark, Qualys, Nessus, and Sophos Firewall.
 
 My goal is to build practical security skills, understand real-world threats, and grow into a strong Network Security / Security Operations professional.
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Network Security (SOC) as a Tier 1 Analyst.
+
