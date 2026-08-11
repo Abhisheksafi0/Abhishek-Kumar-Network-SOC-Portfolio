@@ -10,11 +10,11 @@ I’m building my career in Network Security and Security Operations through han
 real-world scenarios, and security projects.
 My work focuses on networking, security monitoring, log analysis, vulnerability management, and threat detection.
 
-🎯 Objective
+## 🎯 Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Network Security, SOC as a Tier 1 Analyst.
 
-🛠️ Skills
+## 🛠️ Skills
 
 → Networking: CCNA, TCP/IP, IPv4, Subnetting, VLAN, Routing, OSPF, ACL, NAT, DHCP, DNS, VPN
 
@@ -26,7 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 → Systems: Windows, Linux, VMware, VirtualBox
 
-🧰 Tools
+## 🧰 Tools
 
 ### Network
 <div>
