@@ -59,8 +59,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications & Courses
 <div>
+    <img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet%20NSE%201-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet%20NSE%202-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Fortinet%20NSE%203-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
