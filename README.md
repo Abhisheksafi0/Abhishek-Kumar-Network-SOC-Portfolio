@@ -3,11 +3,11 @@
  <a href="https://www.linkedin.com/in/abhishek-kumar0109" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 
 
-I’m building my career in Network Security and Security Operations through hands-on labs, real-world scenarios, and security projects.
 
+I’m building my career in Network Security and Security Operations through hands-on labs,
+real-world scenarios, and security projects.
 My work focuses on networking, security monitoring, log analysis, vulnerability management, and threat detection.
 
 🎯 Objective
