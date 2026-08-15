@@ -68,5 +68,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Enterprise SOC & Endpoint Security Monitoring Lab
+- [Enterprise SOC & Endpoint Security Monitoring Lab](https://github.com/Abhisheksafi0/enterprise-soc-endpoint-security-lab)
 - Enterprise Multi-Site Network Design
